@@ -5,7 +5,7 @@
 
 # AI Data Center Power Grid Integration Analysis
 
-This repository provides the code and simulations to accompany the survey paper, "Survey: Technical Challenges of AI Data Center Integration into the Power Grid." [cite: 3]
+This repository provides the code and simulations to accompany the survey paper, "Survey: Technical Challenges of AI Data Center Integration into the Power Grid."
 
 The objective of this project is to:
 1.  **Characterize** the unique power consumption profiles of AI workloads (training and inference) at a high-resolution, millisecond timescale.
